@@ -1,4 +1,4 @@
-# Script Kit App
+# Script KitApp
 
 The companion app to Script Kit.
 
